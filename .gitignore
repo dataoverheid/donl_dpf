@@ -1,0 +1,4 @@
+# Ignore configuration files that may contain sensitive information.
+dpf_*.sh
+html_logs/*
+logs/*
